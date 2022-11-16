@@ -1,21 +1,19 @@
-<H1> Hi, I'm Ashley Vizcaino! <img src="https://media2.giphy.com/media/fxLFhxNQFqfFXHVsOZ/giphy.gif?cid=ecf05e47hbi03b89mmorgd11mo5g0f6aq1l1chnc15hjhmqu&rid=giphy.gif&ct=s" width="50">
-
-
-[![Linkedin: AshleyVizcaino](https://img.shields.io/badge/-AshleyVizcaino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)](https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)
-[![GitHub Vizcaino13](https://img.shields.io/github/followers/Vizcaino13?label=follow&style=social)](https://github.com/Vizcaino13)</H1>
-  ---
-
-<div align="middle">
-<h3><img src="https://media2.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif?cid=ecf05e474ymun24zvvb5n1u6ix5al44419bgnw3t198kp2ag&rid=giphy.gif&ct=s" width="100">  Data Analyst | New Jersery, USA 
- <img src="https://media4.giphy.com/media/EFs7JAhtmlHLUZqESb/giphy.gif?cid=ecf05e47hf9tth372qsvczx8i606ij45h8qzvxlkfn0rgw69&rid=giphy.gif&ct=s" alt="Jersey" width="60px"></h3>
-</div>
-
+<H1 align"center"> Hi, I'm Ashley Vizcaino! <img src="https://media2.giphy.com/media/fxLFhxNQFqfFXHVsOZ/giphy.gif?cid=ecf05e47hbi03b89mmorgd11mo5g0f6aq1l1chnc15hjhmqu&rid=giphy.gif&ct=s" width="50">
 
  ---
+
+ ## :desktop_computer: Data Analyst | New Jersery, USA :statue_of_liberty:
+ ---
+
+
+ 
 
 ### About Me
 
  This section is about me.  
+ 
+ #### Some of My Projects
+
 
  ---
 
@@ -40,4 +38,15 @@
 <code><img height="20" src="https://e7.pngegg.com/pngimages/969/710/png-clipart-bigquery-google-cloud-platform-google-analytics-big-data-boundaries-text-logo-thumbnail.png"></code>
 
 </details>
+
+[![Linkedin: AshleyVizcaino](https://img.shields.io/badge/-AshleyVizcaino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)](https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)
+[![GitHub Vizcaino13](https://img.shields.io/github/followers/Vizcaino13?label=follow&style=social)](https://github.com/Vizcaino13)</H1>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vizcaino13/count.svg" />
+</p>
+
+  ---
+
 
