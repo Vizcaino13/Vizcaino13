@@ -4,10 +4,9 @@
 Hi, 
 
 [![Linkedin: AshleyVizcaino](https://img.shields.io/badge/-AshleyVizcaino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)](https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Vizcaino13](https://img.shields.io/github/followers/Vizcaino13?label=follow&style=social)](https://github.com/Vizcaino13)
 <br>
  This section is about me.  
 <br>
 
 
- ashley-vizcaino-a2197611b
