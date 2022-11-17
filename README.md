@@ -42,6 +42,10 @@
 
 </details>
 
+
+
+#### Connect With Me <img src="https://media2.giphy.com/media/fxLFhxNQFqfFXHVsOZ/giphy.gif?cid=ecf05e47hbi03b89mmorgd11mo5g0f6aq1l1chnc15hjhmqu&rid=giphy.gif&ct=s" width="50">
+
 [![Linkedin: AshleyVizcaino](https://img.shields.io/badge/-AshleyVizcaino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)](https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)
 [![GitHub Vizcaino13](https://img.shields.io/github/followers/Vizcaino13?label=follow&style=social)](https://github.com/Vizcaino13)</H1>
 
