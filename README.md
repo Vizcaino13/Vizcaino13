@@ -1,11 +1,9 @@
 <H1 align"center"> Hi, I'm Ashley Vizcaino! <img src="https://media2.giphy.com/media/fxLFhxNQFqfFXHVsOZ/giphy.gif?cid=ecf05e47hbi03b89mmorgd11mo5g0f6aq1l1chnc15hjhmqu&rid=giphy.gif&ct=s" width="50">
 
- ---
-
- ## :desktop_computer: Data Analyst | New Jersery, USA :statue_of_liberty:
- ---
-
-
+ <h3 align="center"> 
+:desktop_computer: Data Analyst | New Jersery, USA :statue_of_liberty:
+ 
+</h3>
  
 
 ### About Me 
@@ -13,7 +11,7 @@
 
  This section is about me.  
  
- #### <img src="https://media1.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif?cid=ecf05e47tojjiqu0xccybl2qyyuywd9fx9lgo8bb2xk0fjz6&rid=giphy.gif&ct=s" width="50"> Some of My Projects  
+ ### <img src="https://media1.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif?cid=ecf05e47tojjiqu0xccybl2qyyuywd9fx9lgo8bb2xk0fjz6&rid=giphy.gif&ct=s" width="50"> Some of My Projects  
 
  
 - [*Analyze-International-Debt-Statistics*](https://github.com/Vizcaino13/Ashley_Vizcaino_Portfolio/blob/main/data_analyst_projects/Analyze%20International%20Debt%20Statistics)  
@@ -60,5 +58,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vizcaino13/count.svg" />
 </p>
+
+
 
 
