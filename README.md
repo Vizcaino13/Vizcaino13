@@ -18,7 +18,7 @@
  
 - [*Analyze-International-Debt-Statistics*](https://github.com/Vizcaino13/Ashley_Vizcaino_Portfolio/blob/main/data_analyst_projects/Analyze%20International%20Debt%20Statistics)  
 
- ---
+ :sparkles: :sparkles:  :sparkles: :sparkles: :sparkles:  :sparkles:  :sparkles: :sparkles:  :sparkles:  :sparkles: :sparkles:  :sparkles:
 
 <details>
   <summary><b>Languages and Tools <code><img height="20" src="https://img.freepik.com/free-vector/blue-wave-transparent-elegant-background_1055-7034.jpg?w=900&t=st=1668635270~exp=1668635870~hmac=182ad85b403e8b075fab30501ed29964bf4d3821a546668e1b08850f51430bc4"></code>&nbsp;</b></summary>
@@ -42,18 +42,23 @@
 
 </details>
 
+ ---
+
+#### Connect With Me 
 
 
-#### Connect With Me <img src="https://media2.giphy.com/media/fxLFhxNQFqfFXHVsOZ/giphy.gif?cid=ecf05e47hbi03b89mmorgd11mo5g0f6aq1l1chnc15hjhmqu&rid=giphy.gif&ct=s" width="50">
+
+<img src="https://media4.giphy.com/media/g0jlZ04SeV4AM1lvFw/giphy.gif?cid=790b76112be1085bca9de0f9519ea6314e80c85a08254697&rid=giphy.gif&ct=g" alt="Smiley face" width="100">
+
+
 
 [![Linkedin: AshleyVizcaino](https://img.shields.io/badge/-AshleyVizcaino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)](https://www.linkedin.com/in/ashley-vizcaino-a2197611b/)
 [![GitHub Vizcaino13](https://img.shields.io/github/followers/Vizcaino13?label=follow&style=social)](https://github.com/Vizcaino13)</H1>
 
+---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vizcaino13/count.svg" />
 </p>
-
-  ---
 
 
