@@ -11,7 +11,7 @@
 
  This section is about me.  
  
- ### <img src="https://media1.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif?cid=ecf05e47tojjiqu0xccybl2qyyuywd9fx9lgo8bb2xk0fjz6&rid=giphy.gif&ct=s" width="50"> Some of My Projects  
+ ### Some of My Projects  <img src="https://media1.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif?cid=ecf05e47tojjiqu0xccybl2qyyuywd9fx9lgo8bb2xk0fjz6&rid=giphy.gif&ct=s" width="50"> 
 
  
 - [*Analyze-International-Debt-Statistics*](https://github.com/Vizcaino13/Ashley_Vizcaino_Portfolio/blob/main/data_analyst_projects/Analyze%20International%20Debt%20Statistics)  
