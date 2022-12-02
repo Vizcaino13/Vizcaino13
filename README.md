@@ -9,7 +9,7 @@
 ### About Me 
 <img src="https://media1.giphy.com/media/ioOOX8EMFXnos/giphy.gif?cid=ecf05e47if1k5s3qlcwf1xcx65dmo61sy6pahhy1cuwj3v5l&rid=giphy.gif&ct=s" height="100">
 
- This section is about me.  
+I am a New Jersey-based Google Certified Data Analyst. I have a strong desire to learn more about the data analytics industry.  I am self-taught and I hope that through my profile you are able to learn a bit more about the work I do.
  
  ### Some of My Projects  <img src="https://media1.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif?cid=ecf05e47tojjiqu0xccybl2qyyuywd9fx9lgo8bb2xk0fjz6&rid=giphy.gif&ct=s" width="50"> 
 
