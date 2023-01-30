@@ -17,7 +17,7 @@
 
  
 - [*Analyze-International-Debt-Statistics*](https://github.com/Vizcaino13/Ashley_Vizcaino_Portfolio/blob/main/data_analyst_projects/Analyze%20International%20Debt%20Statistics)  
-- [*Case study 2 Bellabeat*](https://github.com/Vizcaino13/Casestudy2_Bellabeat)
+- [*Case study 2 Bellabeat*](https://github.com/Vizcaino13/Casestudy2_Bellabeat/blob/main/case-study-2-bellabeat.ipynb)
 
 
 :computer::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
