@@ -9,7 +9,7 @@
 ### About Me 
 <img src="https://media1.giphy.com/media/ioOOX8EMFXnos/giphy.gif?cid=ecf05e47if1k5s3qlcwf1xcx65dmo61sy6pahhy1cuwj3v5l&rid=giphy.gif&ct=s" height="100">
 
-#### I am a New Jersey-based Google Certified Data Analyst. I have a strong desire to learn more about the data analytics industry.  I am self-taught and I hope that through my profile you are able to learn a bit more about the work I do.
+#### I am a New Jersey-based Data Scientist. I have a strong desire to learn more about the data science industry.  I am self-taught and I hope that through my profile you are able to learn a bit more about the work I do.
 
 :heavy_check_mark::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
